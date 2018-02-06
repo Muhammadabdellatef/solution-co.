@@ -1,0 +1,58 @@
+body
+{
+    background-image: url(images/27459310_1477078492389694_6754297650841856918_n.jpg);background-repeat: no-repeat;background-position: center;background-size: cover;width: 99%;height: 40%
+}
+
+.form .name
+{
+    border-radius: 7px;
+    width: 250px;
+    height: 40px
+}
+
+.form .email
+{
+    border-radius: 7px;
+    width: 250px;
+    height: 40px
+}
+
+.form textarea
+{
+    border-radius: 7px
+}
+
+
+.form button
+
+{
+  float: right;
+  font-size: 15px;
+    margin-right:4px;
+    border-width: 10px;
+    background-size: cover
+    
+}
+
+.info
+{
+    color: white;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
